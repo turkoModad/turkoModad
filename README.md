@@ -12,12 +12,12 @@ Mi objetivo principal es consolidarme como **Especialista en NLP**, enfocado en 
 - **IA & NLP:** Mistral, vLLM, Hugging Face, PyTorch, Embeddings Multilingües, OpenAI Whisper.
 - **Data & BI:** Pandas, Plotly.js, Modelado Dimensional (Star Schema).
 
-### Portafolio y Proyectos Destacados
-- **[Asistente Legal de Tránsito (RAG)](#)**: Sistema RAG sobre la Ley 24.449 usando Python 3.11, FastAPI, Mistral 3B, vLLM y embeddings Multilingual E5-Large con Auto-Cache.
-- **[Censo Salta 2022 GeoAnalytics](#)**: Pipeline ETL y modelo dimensional (Star Schema) construido con PostgreSQL 18, PostGIS 3.6 y GeoPandas.
-- **[FarmaControl](#)**: Plataforma web full-stack para gestión y análisis de stock farmacéutico, desarrollada en FastAPI, PostgreSQL, Pandas y Plotly.js.
-- **[Clasificador de Comentarios en YouTube](#)**: Fine-tuning del modelo RoBERTuito evaluado por F1-Macro, usando PyTorch y Hugging Face.
-- **[YouTube Video Transcriber](#)**: Automatización local de reconocimiento de voz a texto implementando OpenAI Whisper.
+### 🚀 Portafolio y Proyectos Destacados
+- **[Asistente Legal de Tránsito (RAG)](https://github.com/turkoModad/proyecto_rag)**: Sistema RAG sobre la Ley 24.449 usando Python 3.11, FastAPI, Mistral 3B, vLLM y embeddings Multilingual E5-Large con Auto-Cache.
+- **[Censo Salta 2022 GeoAnalytics](https://github.com/turkoModad/censo-pipeline-geoanalytics)**: Pipeline ETL y modelo dimensional (Star Schema) construido con PostgreSQL 18, PostGIS 3.6 y GeoPandas.
+- **[FarmaControl](https://github.com/turkoModad/farmacia)**: Plataforma web full-stack para gestión y análisis de stock farmacéutico, desarrollada en FastAPI, PostgreSQL, Pandas y Plotly.js.
+- **[Clasificador de Comentarios en YouTube](https://github.com/turkoModad/clasificacion_comentarios_youtube)**: Fine-tuning del modelo RoBERTuito evaluado por F1-Macro, usando PyTorch y Hugging Face.
+- **[Transcriptor y Resumidor de Pases de Guardia](https://github.com/turkoModad/Transcriptor-y-Resumidor-de-Pases-de-Guardia-con-Whisper-y-LLM)**: Automatización de transcripción y síntesis de audios clínicos o de guardia utilizando OpenAI Whisper y modelos LLM.
 
 ### Formación y Credenciales
 - **Stanford University:** Machine Learning Specialization (En curso).
