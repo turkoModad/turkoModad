@@ -1,6 +1,6 @@
 # Hola, soy José Aníbal Modad
 
-**Analista de Datos | Python Developer | Supply Chain Analytics & NLP**
+**Analista de Operaciones y Logística | Data Analytics (SQL - Python - PostGIS) | Automatización de Procesos y Soluciones NLP / RAG**
 
 Soy un profesional con un perfil híbrido: aporto **más de 20 años de experiencia real en operaciones logísticas, transporte, distribución y gestión de flotas**, reconvertido hacia la **Analítica de Datos, Ingeniería de Datos y Procesamiento del Lenguaje Natural (NLP)**.
 
