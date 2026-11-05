@@ -28,5 +28,4 @@ Mi objetivo principal es consolidarme como **Especialista en NLP**, enfocado en 
 ### Contáctame
 - 📍 **Ubicación:** Salta, Argentina (UTC -03:00)
 - ✉️ **Email:** turkomodad88@gmail.com
-- 🏅 **Credenciales:** [Google Advanced Data Analytics](https://coursera.org/share/8b7db7d2f04fdd83d7c19cf24d9d2d79) | [Google Data Analytics](https://coursera.org/share/9e0d70ec70accdcb0255e4b552dc8911)
-- 
+- 🏅 **Credenciales:** [Google Advanced Data Analytics](https://coursera.org/share/8b7db7d2f04fdd83d7c19cf24d9d2d79) | [Google Data Analytics](https://coursera.org/share/9e0d70ec70accdcb0255e4b552dc8911) 
