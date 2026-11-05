@@ -28,4 +28,5 @@ Mi objetivo principal es consolidarme como **Especialista en NLP**, enfocado en 
 ### Contáctame
 - 📍 **Ubicación:** Salta, Argentina (UTC -03:00)
 - ✉️ **Email:** turkomodad88@gmail.com
-- 🏅 **Credenciales:** [Insignia de Data Analytics en Credly](https://www.credly.com/badges/7286a14a-d5f8-4154-a8ef-c161c2d271fe/public_url)
+- 🏅 **Credenciales:** [Google Advanced Data Analytics](https://coursera.org/verify/professional-cert/UCYK1OS0ZCAK) | [Google Data Analytics](https://www.credly.com/badges/7286a14a-d5f8-4154-a8ef-c161c2d271fe/public_url)
+- 
